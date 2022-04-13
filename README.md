@@ -8,6 +8,6 @@
 #  pip install requests
 #  pip install mechanize
 #  pip install bs4
-# git clone https://github.com/Zuck49/BobS
+# git clone 
 # cd BobS
 # python BobS.py
