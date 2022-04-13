@@ -1,4 +1,4 @@
-#saya recode #kata:Autor jangan perjual belikan sc ini 
+ #kata:Autor jangan perjual belikan sc ini 
 
 
 
@@ -8,6 +8,6 @@
 #  pip install requests
 #  pip install mechanize
 #  pip install bs4
-# git clone 
+# git clone https://github.com/Zuck49/BobS
 # cd BobS
 # python BobS.py
